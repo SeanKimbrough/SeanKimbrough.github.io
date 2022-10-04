@@ -1,0 +1,14 @@
+body {
+  background-color; #444444;
+  color: #dddddd;
+  font-family: Noteworthy, Monaco, sans-serif;
+  margin: 10% 20%; 
+}
+
+.exp-header {
+  text-align: center;
+  text-transfrom: uppercase;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+}
+
