@@ -1,14 +1,13 @@
 body {
-  background-color; #444444;
-  color: #dddddd;
+  body stle="background-color;powder blue;">
+  color: black;
   font-family: Noteworthy, Monaco, sans-serif;
-  margin: 10% 20%; 
+  margin: 5% 10%; 
 }
 
 .exp-header {
   text-align: center;
+  img-align: right;
   text-transfrom: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-}
-
