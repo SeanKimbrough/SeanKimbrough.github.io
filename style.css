@@ -1,13 +1,19 @@
 body {
-  body stle="background-color;powder blue;">
-  color: black;
   font-family: Noteworthy, Monaco, sans-serif;
   margin: 5% 10%; 
+  background-color:tan;
+  
+}
+h1{
+  text-align:center;
+  border-bottom:solid white 
 }
 
 .exp-header {
-  text-align: center;
-  img-align: right;
-  text-transfrom: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
+  text-align:center;
+  text-transform:uppercase;
+  border-top:1px solid white;
+  border-bottom:1px solid white;
+}
+
+
